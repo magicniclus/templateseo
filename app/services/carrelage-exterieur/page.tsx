@@ -19,7 +19,7 @@ const carrelageExterieurConfig = {
   
   // Contenu principal
   serviceName: "Carrelage Extérieur",
-  heroImage: "/maison-work.png",
+  heroImage: "/services/service-carrelage-exterieur.png",
   heroTitle: "Carrelage Extérieur et Terrasses",
   heroSubtitle: "Expert en aménagement extérieur dans le 63430 et Auvergne-Rhône-Alpes",
   

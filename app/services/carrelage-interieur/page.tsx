@@ -19,7 +19,7 @@ const carrelageInterieurConfig = {
   
   // Contenu principal
   serviceName: "Carrelage Intérieur",
-  heroImage: "/peinture.png",
+  heroImage: "/services/service-carrelage-interieur.png",
   heroTitle: "Carrelage Intérieur Professionnel",
   heroSubtitle: "Expert en pose de carrelage intérieur dans le 63430 et Auvergne-Rhône-Alpes",
   

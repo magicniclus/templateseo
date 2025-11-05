@@ -19,7 +19,7 @@ const revetementsSolConfig = {
   
   // Contenu principal
   serviceName: "Revêtements de Sol",
-  heroImage: "/plomberie.png",
+  heroImage: "/services/service-revetements-sol.png",
   heroTitle: "Revêtements de Sol Professionnels",
   heroSubtitle: "Spécialiste de tous types de sols dans le 63430 et Auvergne-Rhône-Alpes",
   

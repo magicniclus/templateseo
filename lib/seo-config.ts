@@ -119,7 +119,7 @@ export const organizationSchema = {
   "name": "ORAN-BAT63",
   "legalName": "Oran-bat63 - Entrepreneur du bâtiment",
   "url": seoConfig.siteUrl,
-  "logo": `${seoConfig.siteUrl}/logo.png`,
+  "logo": `${seoConfig.siteUrl}/logos/logo.png`,
   "image": `${seoConfig.siteUrl}/og-image.jpg`,
   "description": seoConfig.description,
   "founder": {

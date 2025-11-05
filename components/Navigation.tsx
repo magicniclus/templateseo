@@ -91,7 +91,7 @@ export default function Navigation() {
                 transition={{ type: "spring", stiffness: 300 }}
               >
                 <Image 
-                  src="/logo.png" 
+                  src="/logos/logo.png" 
                   alt="Logo" 
                   width={32} 
                   height={32} 
@@ -278,7 +278,7 @@ export default function Navigation() {
                   transition={{ type: "spring", stiffness: 300 }}
                 >
                   <Image 
-                    src="/logo.png" 
+                    src="/logos/logo.png" 
                     alt="Logo" 
                     width={32} 
                     height={32} 
