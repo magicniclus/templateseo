@@ -1,0 +1,127 @@
+{
+  "company": {
+    "name": "ORAN-BAT63",
+    "legalName": "Oran-bat63 - Entrepreneur du bâtiment",
+    "address": "63430, Auvergne-Rhône-Alpes",
+    "phone": "07 45 65 62 25",
+    "email": "oran.bat63@gmail.com",
+    "siret": "Entrepreneur",
+    "ceo": "MOHAMMED HADJOUTI"
+  },
+  "hero": {
+    "title": "ORAN-BAT63 - Carreleur professionnel en Auvergne-Rhône-Alpes",
+    "subtitle": "Expert du secteur du bâtiment depuis plus de 15 ans, spécialisé en carrelage et revêtements de sol. Votre partenaire de confiance pour tous vos projets de carrelage et rénovation dans le secteur résidentiel et commercial en Auvergne-Rhône-Alpes.",
+    "buttonText": "Demander un devis",
+    "buttonHref": "#contact",
+    "backgroundImage": "",
+    "backgroundVideo": "/video.mp4"
+  },
+  "about": {
+    "sections": [
+      {
+        "smallTitle": "Notre expertise",
+        "title": "Spécialiste du carrelage",
+        "subtitle": "Expert en carrelage et revêtements de sol",
+        "content": "ORAN-BAT63 est spécialisé dans les travaux de carrelage et revêtements de sol. Je mets mon expertise au service de vos projets de carrelage et rénovation. Ma mission : apporter un service de qualité, rapide et efficace, dans le respect des délais et des normes dans le 63430 et Auvergne-Rhône-Alpes.",
+        "image": "/maison-work.png",
+        "gradientFrom": "#ff7e5f",
+        "gradientTo": "#feb47b",
+        "buttonText": "Voir nos réalisations",
+        "buttonHref": "#realisations",
+        "reversed": false
+      },
+      {
+        "smallTitle": "Mes spécialités",
+        "title": "Travaux de carrelage professionnels",
+        "subtitle": "Expert en carrelage et finitions",
+        "content": "Ce qui me distingue, c'est mon expertise technique, ma rigueur et ma relation de confiance avec mes clients. Chaque chantier est pour moi une nouvelle occasion de prouver que le carrelage peut allier qualité et efficacité. Je maîtrise parfaitement les normes techniques et de sécurité en vigueur dans le secteur du bâtiment.",
+        "image": "/plomberie.png",
+        "gradientFrom": "#667eea",
+        "gradientTo": "#764ba2",
+        "buttonText": "Contactez-nous",
+        "buttonHref": "#contact",
+        "reversed": true
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Mes Réalisations",
+    "subtitle": "Découvrez mes travaux de carrelage et revêtements de sol dans le 63430 et Auvergne-Rhône-Alpes",
+    "initialDisplayCount": 4,
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=800&fit=crop",
+        "alt": "Carrelage intérieur",
+        "title": "Carrelage intérieur - 63430"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1581092160562-40aa08e78837?w=800&h=800&fit=crop",
+        "alt": "Travaux de carrelage",
+        "title": "Travaux de carrelage - Auvergne-Rhône-Alpes"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?w=800&h=800&fit=crop",
+        "alt": "Carrelage extérieur",
+        "title": "Carrelage extérieur - 63430"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1581092162384-8987c1d64718?w=800&h=800&fit=crop",
+        "alt": "Finitions carrelage",
+        "title": "Finitions carrelage - Auvergne-Rhône-Alpes"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=800&fit=crop",
+        "alt": "Carrelage décoratif",
+        "title": "Carrelage décoratif - 63430"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1581092160562-40aa08e78837?w=800&h=800&fit=crop",
+        "alt": "Carrelage professionnel",
+        "title": "Carrelage professionnel - Auvergne-Rhône-Alpes"
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contactez-nous",
+    "subtitle": "Parlons de votre projet ensemble"
+  },
+  "team": {
+    "members": [
+      {
+        "name": "Mohammed Hadjouti",
+        "position": "Entrepreneur du bâtiment & Expert Carrelage",
+        "description": "Passionné par le secteur du bâtiment, je suis spécialisé dans les travaux de carrelage et revêtements de sol. Expert en carrelage et finitions, je mets mon expertise au service de vos projets dans le 63430 et Auvergne-Rhône-Alpes. Mon engagement : vous offrir un service de qualité, rapide et efficace, avec un souci constant du détail.",
+        "photo": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop&crop=face"
+      }
+    ]
+  },
+  "partners": {
+    "logos": [
+      {
+        "src": "/logo/SMA_BTP.png",
+        "alt": "SMA BTP",
+        "name": "SMA BTP"
+      },
+      {
+        "src": "/logo/decennale.png",
+        "alt": "Assurance Décennale",
+        "name": "Garantie Décennale"
+      },
+      {
+        "src": "/logo/tmc-partenaire.png",
+        "alt": "TMC Partenaire",
+        "name": "TMC"
+      },
+      {
+        "src": "/rge.png",
+        "alt": "RGE Qualifié",
+        "name": "RGE"
+      }
+    ]
+  },
+  "colors": {
+    "primary": "#ff7e5f",
+    "secondary": "#667eea",
+    "accent": "#feb47b"
+  }
+}

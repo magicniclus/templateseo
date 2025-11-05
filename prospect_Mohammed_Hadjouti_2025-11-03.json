@@ -1,0 +1,41 @@
+{
+  "id": "PAVrcHqkzeegnjdA2Jz0",
+  "informationsPersonnelles": {
+    "nom": "Hadjouti",
+    "prenom": "Mohammed",
+    "email": "oran.bat63@gmail.com",
+    "telephone": "0745656225",
+    "etape": "R2",
+    "date": {
+      "type": "firestore/timestamp/1.0",
+      "seconds": 1762157151,
+      "nanoseconds": 748000000
+    },
+    "rgpd": true,
+    "commentaire": "2-3 chantiers par mois, "
+  },
+  "informationsEntreprise": {
+    "nomEntreprise": "Oran-bat63 ",
+    "entreprise": "Oran-bat63 ",
+    "metier": "Carreleur",
+    "secteurActivite": "Auvergne-Rhône-Alpes",
+    "raisonSociale": "Auto-entrepreneur",
+    "anneeCreation": "2022",
+    "nombreCollaborateurs": "1",
+    "prestation": "Carreleur",
+    "rayonIntervention": "63430",
+    "certifications": "",
+    "garanties": "décennale",
+    "partenaires": ""
+  },
+  "siteWebEtCommunication": {
+    "siteWebExistant": true,
+    "siteWebURL": "www.oranbat63.fr",
+    "logo": false,
+    "sitePret": false
+  },
+  "metadonnees": {
+    "dateExport": "2025-11-03T15:46:39.504Z",
+    "exportePar": "Admin Trouver Mon Chantier"
+  }
+}
